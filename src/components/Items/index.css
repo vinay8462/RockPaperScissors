@@ -1,0 +1,14 @@
+.button-item {
+  list-style: none;
+  margin: 30px;
+}
+
+.image {
+  width: 120px;
+}
+
+.button {
+  background-color: transparent;
+  cursor: pointer;
+  border: 0;
+}
